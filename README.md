@@ -43,6 +43,15 @@ A quick glossary of all the internal names used in the game translated into Engl
 - `Magician`: Intelligence
 - `Archer`: Agility
 
+## Astrolabe tags aka Elder Tree branches
+| ID |  Name   |
+|:--:|:-------:|
+| 1  | Warrior |
+| 2  |  Tank   |
+| 3  | Ranger  |
+| 4  |  Mage   |
+| 5  | Support |
+
 ## Heroes
 <details>
 <summary>Expand</summary>
