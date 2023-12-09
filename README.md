@@ -239,6 +239,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 173 |      Shemira     |     Calypso    |
 | 174 |    Lady Simona   |     Ringer     |
 | 175 |     Lavatune     |      BassD     |
+| 176 |       Vika       |    TopMaster   |
 <!-- heroes-end -->
 
 ## Bosses
