@@ -1,6 +1,16 @@
 # AFK Arena Glossary
 A quick glossary of all the internal names used in the game translated into English names.
 
+## Table of Contents
+- [General](#general)
+- [Game Modes](#game-modes)
+- [UnitTag aka Factions](#unittag-aka-factions)
+- [Hero category](#hero-category)
+- [Astrolabe tags aka Elder Tree branches](#astrolabe-tags-aka-elder-tree-branches)
+- [Heroes](#heroes)
+- [Bosses](#bosses)
+- [Pets](#pets)
+
 ## General
 - `Astrolabe`: Elder Tree
 - `Homeland`: The Oak Inn
@@ -8,6 +18,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 - `Pentagram`: Resonating Crystal
 - `Starland`: Field of Stars
 - `Troop`: Union
+- `Ultra`: Awakened
+- `Ultra Skill`: Awakened Skill
 
 ## Game Modes
 - `CampPvp`: Treasure Vanguard
@@ -53,8 +65,6 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 5  | Support |
 
 ## Heroes
-<details>
-<summary>Expand</summary>
 
 | ID  |       Name       | Internal Name  |
 |:----|:----------------:|:--------------:|
@@ -229,11 +239,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 173 |     Shemira      |    Calypso     |
 | 174 |   Lady Simona    |     Ringer     |
 | 175 |     Lavatune     |     BassD      |
-</details>
 
 ## Bosses
-<details>
-<summary>Expand</summary>
 
 | ID   |         Name         |   Internal Name   |
 |:-----|:--------------------:|:-----------------:|
@@ -381,7 +388,6 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1145 |        Ezizh         |       SBane       |
 | 1146 |      Soul Hound      |   BossDevilDog    |
 | 1147 |        Arden         |   WBossOakSage    |
-</details>
 
 ## Pets
 | ID   |       Name        | Internal Name |
