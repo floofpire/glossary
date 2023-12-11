@@ -240,6 +240,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 174 |    Lady Simona   |     Ringer     |
 | 175 |     Lavatune     |      BassD     |
 | 176 |       Vika       |    TopMaster   |
+| 177 |       Gavus      |      Ruler     |
+| 178 |      Eugene      |    Disorder    |
 <!-- heroes-end -->
 
 ## Bosses
