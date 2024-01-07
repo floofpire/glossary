@@ -42,13 +42,15 @@ A quick glossary of all the internal names used in the game translated into Engl
 - `Stage`: Campaign
 
 ## UnitTag aka Factions
-- `Human`: Lightbearers
-- `Orc`: Maulers
-- `Elf`: Wilders
-- `Undead`: Graveborn
-- `Devil`: Hypogeans
-- `God`: Celestials
-- `Cross`: Dimensional
+| ID | Code name | Real Name    |
+|----|-----------|--------------|
+| 1  | Human     | Lightbearers |
+| 2  | Orc       | Maulers      |
+| 3  | Elf       | Wilders      |
+| 4  | Undead    | Graveborn    |
+| 5  | Devil     | Hypogeans    |
+| 6  | God       | Celestials   |
+| 7  | Cross     | Dimensional  |
 
 ## Hero category
 - `Tank`: Strength
