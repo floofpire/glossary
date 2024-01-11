@@ -244,6 +244,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 176 |       Vika       |    TopMaster   |
 | 177 |       Gavus      |      Ruler     |
 | 178 |      Eugene      |    Disorder    |
+| 179 |      Atheus      |       DHT      |
 <!-- heroes-end -->
 
 ## Bosses
