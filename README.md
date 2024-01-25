@@ -245,6 +245,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 177 |       Gavus      |      Ruler     |
 | 178 |      Eugene      |    Disorder    |
 | 179 |      Atheus      |       DHT      |
+| 180 |      Malkrie     |      Mess      |
 <!-- heroes-end -->
 
 ## Bosses
