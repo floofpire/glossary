@@ -422,4 +422,5 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 6017 |   Shroom Spooder  |    DSpider    |
 | 6018 |   Radish Rotunda  |     Vegelf    |
 | 6019 |    Pandy Dumpty   |     Ailuro    |
+| 6020 |     Ice Crown     |   Jellyfish   |
 <!-- pets-end -->
