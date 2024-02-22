@@ -247,6 +247,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 179 |      Atheus      |       DHT      |
 | 180 |      Malkrie     |      Mess      |
 | 181 |      Lucius      |     Paladin    |
+| 182 |  Adrian & Elyse  |     TangoD     |
 <!-- heroes-end -->
 
 ## Bosses
