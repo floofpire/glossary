@@ -248,6 +248,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 180 |      Malkrie     |      Mess      |
 | 181 |      Lucius      |     Paladin    |
 | 182 |  Adrian & Elyse  |     TangoD     |
+| 183 |       Bronn      |   TombKeeper   |
 <!-- heroes-end -->
 
 ## Bosses
