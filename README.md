@@ -250,6 +250,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 182 |  Adrian & Elyse  |     TangoD     |
 | 183 |       Bronn      |   TombKeeper   |
 | 184 |      Kalthin     |      Purga     |
+| 185 |                  |     DFiery     |
+| 186 |                  |    DLongbow    |
 <!-- heroes-end -->
 
 ## Bosses
