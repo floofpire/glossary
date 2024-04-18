@@ -252,6 +252,12 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 184 |      Kalthin     |      Purga     |
 | 185 |      Hildwin     |     DFiery     |
 | 186 |      Gwyneth     |    DLongbow    |
+| 187 |       Nyla       |      DPop      |
+| 188 |      Pulina      |      DVain     |
+| 189 |      Cassius     |     DHerald    |
+| 190 |      Gourgue     |      DCute     |
+| 191 | Draconis Warrior |     Dpower     |
+| 192 |  Draconis Archer |      Dbow      |
 <!-- heroes-end -->
 
 ## Bosses
@@ -428,4 +434,5 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 6018 |   Radish Rotunda  |     Vegelf    |
 | 6019 |    Pandy Dumpty   |     Ailuro    |
 | 6020 |     Ice Crown     |   Jellyfish   |
+| 6021 |       Aureus      |   CutyDragon  |
 <!-- pets-end -->
