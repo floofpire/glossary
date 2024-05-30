@@ -258,6 +258,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 190 |      Gourgue     |      DCute     |
 | 191 | Draconis Warrior |     Dpower     |
 | 192 |  Draconis Archer |      Dbow      |
+| 193 |    Villanelle    |  ScorpionLady  |
+| 196 |     Antandra     |    SLeopard    |
 <!-- heroes-end -->
 
 ## Bosses
