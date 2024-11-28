@@ -259,7 +259,21 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 191 | Draconis Warrior |     Dpower     |
 | 192 |  Draconis Archer |      Dbow      |
 | 193 |    Villanelle    |  ScorpionLady  |
+| 194 |       Shuna      |    PinkWitch   |
+| 195 |      Rimuru      |    CuteLord    |
 | 196 |     Antandra     |    SLeopard    |
+| 197 |      Melion      |    DEnforcer   |
+| 198 |       Raoul      |     Shamus     |
+| 199 |        Lan       |     DLoong     |
+| 200 |       Misha      |      Snail     |
+| 201 |      Eironn      |    CrySword    |
+| 202 |      Aurelia     |     AutumnG    |
+| 203 |      Kregor      |   DConcierge   |
+| 204 |      Randle      |   SoulScythe   |
+| 205 |      Thoran      |    SNKStorm    |
+| 206 |       Knox       |     Geezer     |
+| 207 |      Skylan      |      DSky      |
+| 208 |      Gorren      |     Orcook     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -437,4 +451,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 6019 |    Pandy Dumpty   |     Ailuro    |
 | 6020 |     Ice Crown     |   Jellyfish   |
 | 6021 |       Aureus      |   CutyDragon  |
+| 6022 |  Pearlcrest Ibis  |      Ibis     |
+| 6023 |    Treatspector   |   CandyGhost  |
+| 6103 |                   |    OrcBall    |
 <!-- pets-end -->
