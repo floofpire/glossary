@@ -278,6 +278,9 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 210 | Shalltear Bloodfallen |     BloodS     |
 | 211 |          Sion         |    DTornado    |
 | 212 |         Haelia        |      Dsun      |
+| 213 |          Mira         |    Daughter    |
+| 214 |        Envydiel       |      EnvyD     |
+| 215 |        Lysander       |      Game      |
 <!-- heroes-end -->
 
 ## Bosses
