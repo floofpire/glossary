@@ -281,6 +281,13 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 213 |          Mira         |    Daughter    |
 | 214 |        Envydiel       |      EnvyD     |
 | 215 |        Lysander       |      Game      |
+| 216 |        Velufira       |    Denchant    |
+| 217 |        Marcille       |    Marcille    |
+| 218 |         Laios         |      Laios     |
+| 219 |       Leviathan       |     Docean     |
+| 220 |         Alvida        |     PirateQ    |
+| 221 |        Estrilda       |     Sknight    |
+| 222 |        Umbriel        |     Dshadow    |
 <!-- heroes-end -->
 
 ## Bosses
@@ -461,5 +468,6 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 6022 |  Pearlcrest Ibis  |      Ibis     |
 | 6023 |    Treatspector   |   CandyGhost  |
 | 6024 |   Joyous Roamer   |   FireSnake   |
+| 6025 |   Trickery Chest  |     Mimic     |
 | 6103 |                   |    OrcBall    |
 <!-- pets-end -->
