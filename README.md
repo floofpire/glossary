@@ -293,152 +293,205 @@ A quick glossary of all the internal names used in the game translated into Engl
 
 ## Bosses
 <!-- bosses-start -->
-| ID   |         Name         |   Internal Name   |
-|:-----|:--------------------:|:-----------------:|
-| 1003 |         Kane         | BossDragonKnight  |
-| 1004 |    Hypogean Mage     |    DevilWizard    |
-| 1005 |    Hypogean Elite    |    UndeadTank     |
-| 1006 |        Wrizz         |      Goblin       |
-| 1007 |        Soren         |    SoulCalibur    |
-| 1008 |        Fiend         |     DevilImp      |
-| 1009 |   Hypogean Warrior   |    HammerDemon    |
-| 1010 |   Hypogean Archer    |     BowDemon      |
-| 1011 |        Soren         | SoulCaliburNormal |
-| 1012 |    Demonic Nemora    |   DarkYeanling    |
-| 1013 |        Arden         |    BossOakSage    |
-| 1014 |  Dwarven Bombardier  |      DwarfE       |
-| 1015 |  Dwarven Pulverizer  |      DwarfS       |
-| 1016 |     Ice Shemira      |      BossDQ       |
-| 1017 |    Burning Brute     |      BossYM       |
-| 1018 |    Demonic Nemora    |   DarkYeanling    |
-| 1019 |     Ice Shemira      |      BossDQ       |
-| 1020 |         Kane         | BossDragonKnight  |
-| 1021 |    Burning Brute     |      BossYM       |
-| 1022 |        Arden         |   WBossOakSage    |
-| 1023 |       Azmonath       |      BossDM       |
-| 1024 |       Gouldos        |    BossCthulhu    |
-| 1025 |         Idre         |    BossMystic     |
-| 1026 |        Albedo        |      Yalbed       |
-| 1027 |    Ainz Ooal Gown    |        Anz        |
-| 1028 |       Shemira        |     nDP_skin      |
-| 1029 |         Niru         |    newNEC_skin    |
-| 1030 |        Daimon        |     DKid_skin     |
-| 1031 |        Adrax         |     BossHGMN      |
-| 1032 |        Adrax         |      BossHGM      |
-| 1033 |         Idre         |    BossMystic     |
-| 1034 |        Ezizh         |     BossBane      |
-| 1035 |        Safiya        |        NOD        |
-| 1036 |        Gorvo         |      Turtle       |
-| 1037 |         Vurk         |       Mouse       |
-| 1038 |       Hendrik        |        GK         |
-| 1039 |         Lyca         |      newPOM       |
-| 1040 |       Belinda        |      Priest       |
-| 1041 |       Khazard        |       IceD        |
-| 1042 |       Zaphrael       |       Thor        |
-| 1043 |       Gouldos        |    BossCthulhu    |
-| 1044 |     The Balancer     |      BossBA       |
-| 1045 |        Eluard        |      Clergy       |
-| 1046 |        Morael        |      AstroM       |
-| 1047 |        Desira        |       Siren       |
-| 1048 |   Arbiter of Chaos   |      BossROG      |
-| 1049 |   Arbiter of Chaos   |      BossROG      |
-| 1050 |   Arbiter of Chaos   |      BossROG      |
-| 1051 |   Arbiter of Chaos   |      BossROG      |
-| 1052 |   Arbiter of Chaos   |      BossROG      |
-| 1053 |        Solise        |        NT         |
-| 1054 |        Respen        |      WindMan      |
-| 1055 |       Isabella       |      Wizard       |
-| 1056 |       Shemira        |     nDP_skin      |
-| 1057 |         Niru         |    newNEC_skin    |
-| 1058 |        Daimon        |     DKid_skin     |
-| 1059 |         Alna         |      WinterL      |
-| 1060 |        Oleus         |     BossPreyS     |
-| 1061 |        Oleus         |     BossPreyB     |
-| 1062 |        Wrizz         |    GoblinFeast    |
-| 1063 |        Thane         |    SwordMaster    |
-| 1064 |       Hendrik        |        GK         |
-| 1065 |       Estrilda       |       Uhlan       |
-| 1066 |        Walker        |      Gunner       |
-| 1067 |        Dalax         |    BossDragonS    |
-| 1068 |        Dalax         |    BossDragonB    |
-| 1069 |        Ferael        |    BoneArcher     |
-| 1070 |        Izold         |    SciMonster     |
-| 1071 |        Torne         |       Bones       |
-| 1072 |         Fane         |      Gaoler       |
-| 1073 |        Mezoth        |        Fat        |
-| 1074 |        Marsha        |     BossWorm      |
-| 1075 |    Dune Destroyer    |    BossLionAct    |
-| 1076 |         Oku          |    DruidMaster    |
-| 1077 |       Hodgkin        |      Captain      |
-| 1078 |    Dune Destroyer    |    BossLionAct    |
-| 1079 |       Hodgkin        |      Captain      |
-| 1080 |        Torne         |       Bones       |
-| 1081 |         Nara         |       Pudge       |
-| 1082 |        Desira        |       Siren       |
-| 1083 |   Swamp Corruptor    |    BossSBDAct     |
-| 1084 |        Adrax         |     BossHGMN      |
-| 1085 |        Adrax         |      BossHGM      |
-| 1086 |        Khasos        |       Troll       |
-| 1087 |        Morael        |      AstroM       |
-| 1088 |       Hodgkin        |      Captain      |
-| 1089 |        Morrow        |     DevilMage     |
-| 1090 |       Framton        |        FP         |
-| 1091 |        Granit        |       Stone       |
-| 1092 |   Raven Whisperer    |     DarkCrow      |
-| 1093 |   Raven Whisperer    |     DarkCrow      |
-| 1094 |   Raven Whisperer    |     DarkCrow      |
-| 1095 |   Raven Whisperer    |     DarkCrow      |
-| 1096 |   Raven Whisperer    |     DarkCrow      |
-| 1097 |       Wreathz        |    GoblinFeast    |
-| 1098 | Fortune Firecrackers |   BossFireWorks   |
-| 1099 |    Lioness Guard     |  BossFStoneLion   |
-| 1100 |      Lion Guard      |  BossMStoneLion   |
-| 1101 |       Isabella       |      Wizard       |
-| 1102 |        Safiya        |        NOD        |
-| 1103 |        Rigby         |       Wino        |
-| 1104 |        Ulmus         |        TD         |
-| 1105 |      Clawlossus      |     BossCrab      |
-| 1106 |       Theowyn        |      Phantom      |
-| 1107 |       Framton        |        FP         |
-| 1108 |       Khazard        |       IceD        |
-| 1109 |    Demonic Nemora    |   DarkYeanling    |
-| 1110 |     Ice Shemira      |      BossDQ       |
-| 1111 |         Kane         | BossDragonKnight  |
-| 1112 |    Burning Brute     |      BossYM       |
-| 1113 |         Idre         |    BossMystic     |
-| 1114 |    Dune Destroyer    |    BossLionAct    |
-| 1115 |   The Fire Daemon    |      BOSSMD       |
-| 1116 |        Thesku        |     SnakeMan      |
-| 1117 |       Treznor        |      CKnight      |
-| 1118 |        Sonja         |       Sonia       |
-| 1119 |        Mezoth        |        Fat        |
-| 1120 |    Burning Brute     |      BossYM       |
-| 1121 |        Arden         |   WBossOakSage    |
-| 1122 |      Duskwailer      |     BossBride     |
-| 1123 |     Mask Curator     |   BossNightmare   |
-| 1124 |      Soul Hound      |   BossDevilDog    |
-| 1125 |    Demonic Puppet    |     RBossDoll     |
-| 1126 |        Ezizh         |       SBane       |
-| 1127 |   The Light Martyr   |  RBossIronMaiden  |
-| 1128 |     Sky Serpent      |    BossMoonkin    |
-| 1130 |         Fane         |      Gaoler       |
-| 1131 |        Gorvo         |    Turtle..cha    |
-| 1132 |        Morrow        |     DevilMage     |
-| 1133 |        Dreaf         |      Treant       |
-| 1134 |        Dalax         |    BossDragonS    |
-| 1135 |        Dalax         |    BossDragonB    |
-| 1136 |   Swamp Corruptor    |    BossSBDAct     |
-| 1137 |        Marsha        |     BossWorm      |
-| 1138 |     Mirror Demon     |    BossMirror     |
-| 1139 |     Mirror Demon     |    BossMirror     |
-| 1140 |        Marsha        |     BossWorm      |
-| 1141 |    Raging Cannon     |    BossCannon     |
-| 1142 |        Respen        |      WindMan      |
-| 1143 |       Skriath        |      Wildkin      |
-| 1144 |       Zaphrael       |       Thor        |
-| 1145 |        Ezizh         |       SBane       |
-| 1146 |      Soul Hound      |   BossDevilDog    |
-| 1147 |        Arden         |   WBossOakSage    |
+| ID   |           Name           |   Internal Name   |
+| :--- | :----------------------: | :---------------: |
+| 1003 |           Kane           |  BossDragonKnight |
+| 1004 |       Hypogean Mage      |    DevilWizard    |
+| 1005 |      Hypogean Elite      |     UndeadTank    |
+| 1006 |           Wrizz          |       Goblin      |
+| 1007 |           Soren          |    SoulCalibur    |
+| 1008 |     Fledgling Fiends     |      DevilImp     |
+| 1009 |     Hypogean Warrior     |    HammerDemon    |
+| 1010 |      Hypogean Archer     |      BowDemon     |
+| 1011 |           Soren          | SoulCaliburNormal |
+| 1012 |      Demonic Nemora      |    DarkYeanling   |
+| 1013 |           Arden          |    BossOakSage    |
+| 1014 |    Dwarven Bombardier    |       DwarfE      |
+| 1015 |    Dwarven Pulverizer    |       DwarfS      |
+| 1016 |        Ice Shemira       |       BossDQ      |
+| 1017 |       Burning Brute      |       BossYM      |
+| 1018 |      Demonic Nemora      |    DarkYeanling   |
+| 1019 |        Ice Shemira       |       BossDQ      |
+| 1020 |           Kane           |  BossDragonKnight |
+| 1021 |       Burning Brute      |       BossYM      |
+| 1022 |           Arden          |    WBossOakSage   |
+| 1023 |         Azmonath         |       BossDM      |
+| 1024 |          Gouldos         |    BossCthulhu    |
+| 1025 |           Idre           |     BossMystic    |
+| 1026 |          Albedo          |       Yalbed      |
+| 1027 |      Ainz Ooal Gown      |        Anz        |
+| 1028 |          Shemira         |      nDP_skin     |
+| 1029 |           Niru           |    newNEC_skin    |
+| 1030 |          Daimon          |     DKid_skin     |
+| 1031 |           Adrax          |      BossHGMN     |
+| 1032 |           Adrax          |      BossHGM      |
+| 1033 |           Idre           |     BossMystic    |
+| 1034 |           Ezizh          |      BossBane     |
+| 1035 |          Safiya          |        NOD        |
+| 1036 |           Gorvo          |       Turtle      |
+| 1037 |           Vurk           |       Mouse       |
+| 1038 |          Hendrik         |         GK        |
+| 1039 |           Lyca           |       newPOM      |
+| 1040 |          Belinda         |       Priest      |
+| 1041 |          Khazard         |        IceD       |
+| 1042 |         Zaphrael         |        Thor       |
+| 1043 |          Gouldos         |    BossCthulhu    |
+| 1044 |       The Balancer       |       BossBA      |
+| 1045 |          Eluard          |       Clergy      |
+| 1046 |          Morael          |       AstroM      |
+| 1047 |          Desira          |       Siren       |
+| 1048 |     Arbiter of Chaos     |      BossROG      |
+| 1049 |     Arbiter of Chaos     |      BossROG      |
+| 1050 |     Arbiter of Chaos     |      BossROG      |
+| 1051 |     Arbiter of Chaos     |      BossROG      |
+| 1052 |     Arbiter of Chaos     |      BossROG      |
+| 1053 |          Solise          |         NT        |
+| 1054 |          Respen          |      WindMan      |
+| 1055 |         Isabella         |       Wizard      |
+| 1056 |          Shemira         |      nDP_skin     |
+| 1057 |           Niru           |    newNEC_skin    |
+| 1058 |          Daimon          |     DKid_skin     |
+| 1059 |           Alna           |      WinterL      |
+| 1060 |           Oleus          |     BossPreyS     |
+| 1061 |           Oleus          |     BossPreyB     |
+| 1062 |           Wrizz          |    GoblinFeast    |
+| 1063 |           Thane          |    SwordMaster    |
+| 1064 |          Hendrik         |         GK        |
+| 1065 |         Estrilda         |       Uhlan       |
+| 1066 |          Walker          |       Gunner      |
+| 1067 |           Dalax          |    BossDragonS    |
+| 1068 |           Dalax          |    BossDragonB    |
+| 1069 |          Ferael          |     BoneArcher    |
+| 1070 |           Izold          |     SciMonster    |
+| 1071 |           Torne          |       Bones       |
+| 1072 |           Fane           |       Gaoler      |
+| 1073 |          Mezoth          |        Fat        |
+| 1074 |          Marsha          |      BossWorm     |
+| 1075 |      Dune Destroyer      |    BossLionAct    |
+| 1076 |            Oku           |    DruidMaster    |
+| 1077 |          Hodgkin         |      Captain      |
+| 1078 |      Dune Destroyer      |    BossLionAct    |
+| 1079 |          Hodgkin         |      Captain      |
+| 1080 |           Torne          |       Bones       |
+| 1081 |           Nara           |       Pudge       |
+| 1082 |          Desira          |       Siren       |
+| 1083 |      Swamp Corruptor     |     BossSBDAct    |
+| 1084 |           Adrax          |      BossHGMN     |
+| 1085 |           Adrax          |      BossHGM      |
+| 1086 |          Khasos          |       Troll       |
+| 1087 |          Morael          |       AstroM      |
+| 1088 |          Hodgkin         |      Captain      |
+| 1089 |          Morrow          |     DevilMage     |
+| 1090 |          Framton         |         FP        |
+| 1091 |          Granit          |       Stone       |
+| 1092 |      Raven Whisperer     |      DarkCrow     |
+| 1093 |      Raven Whisperer     |      DarkCrow     |
+| 1094 |      Raven Whisperer     |      DarkCrow     |
+| 1095 |      Raven Whisperer     |      DarkCrow     |
+| 1096 |      Raven Whisperer     |      DarkCrow     |
+| 1097 |          Wreathz         |    GoblinFeast    |
+| 1098 |   Fortune Firecrackers   |   BossFireWorks   |
+| 1099 |       Lioness Guard      |   BossFStoneLion  |
+| 1100 |        Lion Guard        |   BossMStoneLion  |
+| 1101 |         Isabella         |       Wizard      |
+| 1102 |          Safiya          |        NOD        |
+| 1103 |           Rigby          |        Wino       |
+| 1104 |           Ulmus          |         TD        |
+| 1105 |        Clawlossus        |      BossCrab     |
+| 1106 |          Theowyn         |      Phantom      |
+| 1107 |          Framton         |         FP        |
+| 1108 |          Khazard         |        IceD       |
+| 1109 |      Demonic Nemora      |    DarkYeanling   |
+| 1110 |        Ice Shemira       |       BossDQ      |
+| 1111 |           Kane           |  BossDragonKnight |
+| 1112 |       Burning Brute      |       BossYM      |
+| 1113 |           Idre           |     BossMystic    |
+| 1114 |      Dune Destroyer      |    BossLionAct    |
+| 1115 |      The Fire Daemon     |       BOSSMD      |
+| 1116 |          Thesku          |      SnakeMan     |
+| 1117 |          Treznor         |      CKnight      |
+| 1118 |           Sonja          |       Sonia       |
+| 1119 |          Mezoth          |        Fat        |
+| 1120 |       Burning Brute      |       BossYM      |
+| 1121 |           Arden          |    WBossOakSage   |
+| 1122 |        Duskwailer        |     BossBride     |
+| 1123 |       Mask Curator       |   BossNightmare   |
+| 1124 |        Soul Hound        |    BossDevilDog   |
+| 1125 |      Demonic Puppet      |     RBossDoll     |
+| 1126 |           Ezizh          |       SBane       |
+| 1127 |     The Light Martyr     |  RBossIronMaiden  |
+| 1128 |        Sky Serpent       |    BossMoonkin    |
+| 1130 |           Fane           |       Gaoler      |
+| 1131 |           Gorvo          |    Turtle..cha    |
+| 1132 |          Morrow          |     DevilMage     |
+| 1133 |           Dreaf          |       Treant      |
+| 1134 |           Dalax          |    BossDragonS    |
+| 1135 |           Dalax          |    BossDragonB    |
+| 1136 |      Swamp Corruptor     |     BossSBDAct    |
+| 1137 |          Marsha          |      BossWorm     |
+| 1138 |       Mirror Demon       |     BossMirror    |
+| 1139 |       Mirror Demon       |     BossMirror    |
+| 1140 |          Marsha          |      BossWorm     |
+| 1141 |       Raging Cannon      |     BossCannon    |
+| 1142 |          Respen          |      WindMan      |
+| 1143 |          Skriath         |      Wildkin      |
+| 1144 |         Zaphrael         |        Thor       |
+| 1145 |           Ezizh          |       SBane       |
+| 1146 |        Soul Hound        |    BossDevilDog   |
+| 1147 |           Arden          |    WBossOakSage   |
+| 1148 |          Morgana         |     BossDharma    |
+| 1149 |      Morass Diabolus     |     RBossHydra    |
+| 1150 |          Conrad          |     BossKondra    |
+| 1151 |          Khazard         |        IceD       |
+| 1152 |          Morael          |       AstroM      |
+| 1153 |          Morgana         |     BossDharma    |
+| 1154 |      Swamp Corruptor     |     BossSBDAct    |
+| 1155 |      Swamp Corruptor     |     BossSBDAct    |
+| 1156 |      Swamp Corruptor     |     BossSBDAct    |
+| 1157 |      Swamp Corruptor     |     BossSBDAct    |
+| 1158 |      Swamp Corruptor     |     BossSBDAct    |
+| 1159 |      Swamp Corruptor     |     BossSBDAct    |
+| 1160 |           Adrax          |      BossHGMN     |
+| 1161 |      Darkness Rising     |      BossBait     |
+| 1162 |          Gouldos         |    BossCthulhu    |
+| 1163 |     Ossivorous Spore     |    BossCannibal   |
+| 1164 |        Cruel Crow        |    BossStalker    |
+| 1165 |           Anoki          |     OrcLeader     |
+| 1166 |           Eorin          |        Alen       |
+| 1167 |           Nyla           |        DPop       |
+| 1168 |          Asmogus         |   BossDevilGoat   |
+| 1169 |          Mezoth          |        Fat        |
+| 1170 |           Ezizh          |        Bane       |
+| 1171 |           Soren          |    SoulCalibur    |
+| 1172 |           Golus          |       newCW       |
+| 1173 |     Soulchain Knight     |   BossSoulLocker  |
+| 1174 |     Bloodvine Wraith     |      BossTree     |
+| 1175 |       Wraith Reaver      |     BossBlade     |
+| 1176 |           Ezizh          |      BossBane     |
+| 1177 |          Gouldos         |    BossCthulhu    |
+| 1178 |          Gouldos         |    BossCthulhu    |
+| 1179 |          Gouldos         |    BossCthulhu    |
+| 1180 |          Gouldos         |    BossCthulhu    |
+| 1181 |          Gouldos         |    BossCthulhu    |
+| 1182 |      Abyssal Murmur      | BossWhisperPriest |
+| 1183 |      Abyssal Maestro     |   BossConductor   |
+| 1184 |          Cecilia         |    NunAssassin    |
+| 1185 |          Morrow          |     DevilMage     |
+| 1186 |          Eluard          |       Clergy      |
+| 1187 |      Astral Devourer     |   BossDarkPlanet  |
+| 1188 |      Astral Devourer     |   BossDarkPlanet  |
+| 1189 |      Astral Devourer     |   BossDarkPlanet  |
+| 1190 |      Fractured Fool      |  BossDoubleJoker  |
+| 1191 |      Abyssal Murmur      | BossWhisperPriest |
+| 1192 | Crimsonflame Forgemaster |   BossIronsmith   |
+| 1193 |        Clawlossus        |      BossCrab     |
+| 1194 |        Sky Serpent       |    BossMoonkin    |
+| 1195 |          Granit          |       Stone       |
+| 1196 |        Villanelle        |    ScorpionLady   |
+| 1197 |       Canisa & Ruke      |      Chimera      |
+| 1198 |           Tidus          |        Wolf       |
+| 1199 |     Nightmare Weaver     |  BossDelusionLord |
+| 1200 |          Marsha          |      BossWorm     |
 <!-- bosses-end -->
 
 ## Pets
