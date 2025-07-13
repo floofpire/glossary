@@ -288,6 +288,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 220 |         Alvida        |     PirateQ    |
 | 221 |        Estrilda       |     Sknight    |
 | 222 |        Umbriel        |     Dshadow    |
+| 223 |       Serenmira       |   DevilSucker  |
 <!-- heroes-end -->
 
 ## Bosses
