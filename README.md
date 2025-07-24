@@ -289,6 +289,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 221 |        Estrilda       |     Sknight    |
 | 222 |        Umbriel        |     Dshadow    |
 | 223 |       Serenmira       |   DevilSucker  |
+| 224 |      Sung Jinwoo      |    Darklord    |
+| 225 |       Cha Hae-in      |   Lighthunter  |
 <!-- heroes-end -->
 
 ## Bosses
