@@ -291,6 +291,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 223 |       Serenmira       |   DevilSucker  |
 | 224 |      Sung Jinwoo      |    Darklord    |
 | 225 |       Cha Hae-in      |   Lighthunter  |
+| 226 |         Kaelon        |    DGambling   |
 <!-- heroes-end -->
 
 ## Bosses
@@ -494,6 +495,12 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1198 |           Tidus          |        Wolf       |
 | 1199 |     Nightmare Weaver     |  BossDelusionLord |
 | 1200 |          Marsha          |      BossWorm     |
+| 1201 |        Chimewarden       | RBossBellGuardian |
+| 1202 |     The Light Martyr     |  RBossIronMaiden  |
+| 1203 |           Tidus          |        Wolf       |
+| 1204 |          Lucius          |      OK_skin      |
+| 1205 |         Antandra         |   Valkyrie_skin   |
+| 1206 |          Scarlet         |      BM_skin      |
 <!-- bosses-end -->
 
 ## Pets
@@ -525,5 +532,6 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 6023 |    Treatspector   |   CandyGhost  |
 | 6024 |   Joyous Roamer   |   FireSnake   |
 | 6025 |   Trickery Chest  |     Mimic     |
+| 6026 |     Thistlekin    |      Tree     |
 | 6103 |                   |    OrcBall    |
 <!-- pets-end -->
