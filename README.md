@@ -13,10 +13,21 @@ A quick glossary of all the internal names used in the game translated into Engl
 
 ## General
 - `Astrolabe`: Elder Tree
+- `Auction`: Militia Trading
+- `BigRichMan`: Isle of Gold
+- `BigWorld`: World Map/Voyage of Wonders
+- `Book`: Library > Echoes of Time
+- `Champion`: Heroes of Esperia
+- `DragonDraw`: Dragon Isle > Dragon Pagoda
+- `Dragon_Stele`: Dragon Isle > Wyrmscale Sanctuary
+- `Dragon_Tower`: Dragon Isle > Dragonforge Trials
 - `Homeland`: The Oak Inn
+- `HomeStay`: Awakened Hero Room
+- `HyperGacha`: Temple of Time
 - `Mitama`: Ghoulish Gallery
 - `Pentagram`: Resonating Crystal
 - `Starland`: Field of Stars
+- `Totem`: Engraving
 - `Troop`: Union
 - `Ultra`: Awakened
 - `Ultra Skill`: Awakened Skill
@@ -24,13 +35,18 @@ A quick glossary of all the internal names used in the game translated into Engl
 ## Game Modes
 - `CampPvp`: Treasure Vanguard
 - `curseland`: Cursed Realm
+- `Godbox`: Celestial Isles
+- `GuildHunt`: Hunting Fields Contract
+- `GuildIceBreak`: Spire Contest
 - `GVE`: Hunting Fields
 - `GVG`: Mystic Starzone
 - `heroes_lore`: Bountiful Trials
 - `IdlePvp`: Treasure Scramble
+- `IdlePvP_Camp`: Treasure Vanguard
 - `Infinite`: Temporal Rift
 - `MatchSweets`: Forest Mania
 - `maze`: Arcane Labyrinth
+- `MiniGame`: Shadow Invasions
 - `MysticTower`: Mysty Valley
 - `race_dream`: Nightmare Corridor
 - `raid`: Peaks of Time/Wandering Balloon
@@ -40,6 +56,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 - `side_story`: Fantastic Beasts
 - `SLG`: Abyssal Expedition
 - `Stage`: Campaign
+- `Texas`: Battle of Blood
+- `War`: Golden Frontier
 
 ## UnitTag aka Factions
 | ID | Code name | Real Name    |
