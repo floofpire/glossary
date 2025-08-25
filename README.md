@@ -310,6 +310,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 224 |      Sung Jinwoo      |    Darklord    |
 | 225 |       Cha Hae-in      |   Lighthunter  |
 | 226 |         Kaelon        |    DGambling   |
+| 227 |        Talimar        |    OrcAngler   |
 <!-- heroes-end -->
 
 ## Bosses
@@ -519,6 +520,11 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1204 |          Lucius          |      OK_skin      |
 | 1205 |         Antandra         |   Valkyrie_skin   |
 | 1206 |          Scarlet         |      BM_skin      |
+| 1207 |      Astral Devourer     |   BossDarkPlanet  |
+| 1208 |      Astral Devourer     |   BossDarkPlanet  |
+| 1209 |      Astral Devourer     |   BossDarkPlanet  |
+| 1210 |      Astral Devourer     |   BossDarkPlanet  |
+| 1211 |      Astral Devourer     |   BossDarkPlanet  |
 <!-- bosses-end -->
 
 ## Pets
