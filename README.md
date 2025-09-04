@@ -311,6 +311,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 225 |       Cha Hae-in      |   Lighthunter  |
 | 226 |         Kaelon        |    DGambling   |
 | 227 |        Talimar        |    OrcAngler   |
+| 228 |        Skriath        |   DesertEagle  |
 <!-- heroes-end -->
 
 ## Bosses
@@ -525,6 +526,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1209 |      Astral Devourer     |   BossDarkPlanet  |
 | 1210 |      Astral Devourer     |   BossDarkPlanet  |
 | 1211 |      Astral Devourer     |   BossDarkPlanet  |
+| 1212 |      Blighted Seraph     |    BossBirdGod    |
 <!-- bosses-end -->
 
 ## Pets
