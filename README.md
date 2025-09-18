@@ -312,6 +312,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 226 |         Kaelon        |    DGambling   |
 | 227 |        Talimar        |    OrcAngler   |
 | 228 |        Skriath        |   DesertEagle  |
+| 229 |         Gorok         |     Beetle     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -527,6 +528,9 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1210 |      Astral Devourer     |   BossDarkPlanet  |
 | 1211 |      Astral Devourer     |   BossDarkPlanet  |
 | 1212 |      Blighted Seraph     |    BossBirdGod    |
+| 1213 |           Gorvo          |    Turtle..cha    |
+| 1214 |           Fane           |       Gaoler      |
+| 1215 |          Morrow          |     DevilMage     |
 <!-- bosses-end -->
 
 ## Pets
@@ -559,5 +563,6 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 6024 |   Joyous Roamer   |   FireSnake   |
 | 6025 |   Trickery Chest  |     Mimic     |
 | 6026 |     Thistlekin    |      Tree     |
+| 6027 | Nightfall Pegasus |    Grimhoof   |
 | 6103 |                   |    OrcBall    |
 <!-- pets-end -->
