@@ -313,6 +313,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 227 |        Talimar        |    OrcAngler   |
 | 228 |        Skriath        |   DesertEagle  |
 | 229 |         Gorok         |     Beetle     |
+| 230 |         Selene        |     Selene     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -531,6 +532,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1213 |           Gorvo          |    Turtle..cha    |
 | 1214 |           Fane           |       Gaoler      |
 | 1215 |          Morrow          |     DevilMage     |
+| 1218 |     Ossivorous Spore     |    BossCannibal   |
 <!-- bosses-end -->
 
 ## Pets
