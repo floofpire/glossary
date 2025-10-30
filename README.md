@@ -314,6 +314,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 228 |        Skriath        |   DesertEagle  |
 | 229 |         Gorok         |     Beetle     |
 | 230 |         Selene        |     Selene     |
+| 231 |         Begris        |    Doutside    |
+| 232 |         Fawkes        |     Coffin     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -532,7 +534,10 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1213 |           Gorvo          |    Turtle..cha    |
 | 1214 |           Fane           |       Gaoler      |
 | 1215 |          Morrow          |     DevilMage     |
+| 1216 |                          |      PumpkinA     |
+| 1217 |                          |      PumpkinB     |
 | 1218 |     Ossivorous Spore     |    BossCannibal   |
+| 1219 |        Soulweaver        |    RBossTailor    |
 <!-- bosses-end -->
 
 ## Pets
