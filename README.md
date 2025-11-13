@@ -316,6 +316,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 230 |         Selene        |     Selene     |
 | 231 |         Begris        |    Doutside    |
 | 232 |         Fawkes        |     Coffin     |
+| 233 |         Lethos        |    GhostBoy    |
 <!-- heroes-end -->
 
 ## Bosses
