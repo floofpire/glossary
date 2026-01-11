@@ -317,6 +317,10 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 231 |         Begris        |    Doutside    |
 | 232 |         Fawkes        |     Coffin     |
 | 233 |         Lethos        |    GhostBoy    |
+| 234 |        Elthara        |      Dhot      |
+| 235 |        Tavriel        |     Dtrade     |
+| 236 |        Saitama        |      Opman     |
+| 237 |    Terrible Tornado   |    Gtornado    |
 <!-- heroes-end -->
 
 ## Bosses
@@ -539,6 +543,13 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1217 |                          |      PumpkinB     |
 | 1218 |     Ossivorous Spore     |    BossCannibal   |
 | 1219 |        Soulweaver        |    RBossTailor    |
+| 1220 |          Gouldos         |    BossCthulhu    |
+| 1221 |          Theowyn         |      Phantom      |
+| 1222 |          Trishea         |         SO        |
+| 1223 |          Salaki          |    CurseCarrier   |
+| 1224 |        Soul Hound        |    BossDevilDog   |
+| 1225 |       Mask Curator       |   BossNightmare   |
+| 1226 |      Astral Devourer     |   BossDarkPlanet  |
 <!-- bosses-end -->
 
 ## Pets
@@ -572,5 +583,6 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 6025 |   Trickery Chest  |     Mimic     |
 | 6026 |     Thistlekin    |      Tree     |
 | 6027 | Nightfall Pegasus |    Grimhoof   |
+| 6028 | Count Snickerfang |  CarrotRabbit |
 | 6103 |                   |    OrcBall    |
 <!-- pets-end -->
