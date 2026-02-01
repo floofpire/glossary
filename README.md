@@ -321,6 +321,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 235 |        Tavriel        |     Dtrade     |
 | 236 |        Saitama        |      Opman     |
 | 237 |    Terrible Tornado   |    Gtornado    |
+| 238 |         Pippa         |      Pippa     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -550,6 +551,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1224 |        Soul Hound        |    BossDevilDog   |
 | 1225 |       Mask Curator       |   BossNightmare   |
 | 1226 |      Astral Devourer     |   BossDarkPlanet  |
+| 1227 |        Dual-Mantle       | BossTwofacedDevil |
 <!-- bosses-end -->
 
 ## Pets
