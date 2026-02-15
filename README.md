@@ -322,6 +322,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 236 |        Saitama        |      Opman     |
 | 237 |    Terrible Tornado   |    Gtornado    |
 | 238 |         Pippa         |      Pippa     |
+| 239 |        Icariel        |   Flysquirrel  |
+| 240 |        Odysseus       |     Dshift     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -552,6 +554,10 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1225 |       Mask Curator       |   BossNightmare   |
 | 1226 |      Astral Devourer     |   BossDarkPlanet  |
 | 1227 |        Dual-Mantle       | BossTwofacedDevil |
+| 1229 |          Asmogus         |   BossDevilGoat   |
+| 1230 |        Lady Simona       |       Ringer      |
+| 1231 |          Scarlet         |         BM        |
+| 1232 |          Anasta          |     OrcMaster     |
 <!-- bosses-end -->
 
 ## Pets
