@@ -324,6 +324,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 238 |         Pippa         |      Pippa     |
 | 239 |        Icariel        |   Flysquirrel  |
 | 240 |        Odysseus       |     Dshift     |
+| 241 |         Harvey        |      DogD      |
 <!-- heroes-end -->
 
 ## Bosses
@@ -554,10 +555,12 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1225 |       Mask Curator       |   BossNightmare   |
 | 1226 |      Astral Devourer     |   BossDarkPlanet  |
 | 1227 |        Dual-Mantle       | BossTwofacedDevil |
+| 1228 |    Cindercrow Specter    |       BossSC      |
 | 1229 |          Asmogus         |   BossDevilGoat   |
 | 1230 |        Lady Simona       |       Ringer      |
 | 1231 |          Scarlet         |         BM        |
 | 1232 |          Anasta          |     OrcMaster     |
+| 1233 |    Cindercrow Specter    |   BossSC_shadow   |
 <!-- bosses-end -->
 
 ## Pets
