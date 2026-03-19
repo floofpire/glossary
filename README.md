@@ -325,6 +325,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 239 |        Icariel        |   Flysquirrel  |
 | 240 |        Odysseus       |     Dshift     |
 | 241 |         Harvey        |      DogD      |
+| 242 |        Dracula        |   LadyDracula  |
 <!-- heroes-end -->
 
 ## Bosses
@@ -561,6 +562,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1231 |          Scarlet         |         BM        |
 | 1232 |          Anasta          |     OrcMaster     |
 | 1233 |    Cindercrow Specter    |   BossSC_shadow   |
+| 1234 |       Netherspinner      |  RBossSoulSpider  |
 <!-- bosses-end -->
 
 ## Pets
