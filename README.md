@@ -326,6 +326,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 240 |        Odysseus       |     Dshift     |
 | 241 |         Harvey        |      DogD      |
 | 242 |        Dracula        |   LadyDracula  |
+| 243 |        Serennia       |    Dyandere    |
 <!-- heroes-end -->
 
 ## Bosses
@@ -563,6 +564,10 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1232 |          Anasta          |     OrcMaster     |
 | 1233 |    Cindercrow Specter    |   BossSC_shadow   |
 | 1234 |       Netherspinner      |  RBossSoulSpider  |
+| 1235 |          Desira          |       Siren       |
+| 1236 |          Morrow          |     DevilMage     |
+| 1237 |          Seirus          |         TH        |
+| 1238 |         Zaphrael         |        Thor       |
 <!-- bosses-end -->
 
 ## Pets
