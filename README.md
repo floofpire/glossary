@@ -327,6 +327,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 241 |         Harvey        |      DogD      |
 | 242 |        Dracula        |   LadyDracula  |
 | 243 |        Serennia       |    Dyandere    |
+| 244 |         Hybris        |     PrideD     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -568,6 +569,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1236 |          Morrow          |     DevilMage     |
 | 1237 |          Seirus          |         TH        |
 | 1238 |         Zaphrael         |        Thor       |
+| 1239 |          Marsha          |      BossWorm     |
 <!-- bosses-end -->
 
 ## Pets
