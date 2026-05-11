@@ -328,6 +328,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 242 |        Dracula        |   LadyDracula  |
 | 243 |        Serennia       |    Dyandere    |
 | 244 |         Hybris        |     PrideD     |
+| 245 |       Misfortis       |     Apollo     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -604,5 +605,6 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 6026 |     Thistlekin    |      Tree     |
 | 6027 | Nightfall Pegasus |    Grimhoof   |
 | 6028 | Count Snickerfang |  CarrotRabbit |
+| 6029 |   Twinlum Spirit  |   LunarAries  |
 | 6103 |                   |    OrcBall    |
 <!-- pets-end -->
