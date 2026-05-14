@@ -329,6 +329,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 243 |        Serennia       |    Dyandere    |
 | 244 |         Hybris        |     PrideD     |
 | 245 |       Misfortis       |     Apollo     |
+| 246 |        Severin        |     DTrans     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -571,6 +572,9 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1237 |          Seirus          |         TH        |
 | 1238 |         Zaphrael         |        Thor       |
 | 1239 |          Marsha          |      BossWorm     |
+| 1240 |    Cindercrow Specter    |       BossSC      |
+| 1241 |           Ezizh          |       SBane       |
+| 1242 |        Clawlossus        |      BossCrab     |
 <!-- bosses-end -->
 
 ## Pets
