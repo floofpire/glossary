@@ -330,6 +330,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 244 |         Hybris        |     PrideD     |
 | 245 |       Misfortis       |     Apollo     |
 | 246 |        Severin        |     DTrans     |
+| 247 |      Judy & Punch     |    Puppeteer   |
 <!-- heroes-end -->
 
 ## Bosses
