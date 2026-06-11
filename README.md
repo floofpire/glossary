@@ -331,6 +331,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 245 |       Misfortis       |     Apollo     |
 | 246 |        Severin        |     DTrans     |
 | 247 |      Judy & Punch     |    Puppeteer   |
+| 248 |         Eluard        |    Sapostle    |
 <!-- heroes-end -->
 
 ## Bosses
@@ -576,6 +577,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1240 |    Cindercrow Specter    |       BossSC      |
 | 1241 |           Ezizh          |       SBane       |
 | 1242 |        Clawlossus        |      BossCrab     |
+| 1243 |      Demonic Puppet      |    RBossDollV2    |
 <!-- bosses-end -->
 
 ## Pets
