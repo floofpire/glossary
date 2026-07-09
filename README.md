@@ -333,6 +333,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 247 |      Judy & Punch     |    Puppeteer   |
 | 248 |         Eluard        |    Sapostle    |
 | 249 |          Trix         |     PrankD     |
+| 250 |          Kyno         |     Dstreet    |
 <!-- heroes-end -->
 
 ## Bosses
@@ -584,6 +585,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1246 |      Demonic Puppet      |     RBossDoll     |
 | 1247 |      Demonic Puppet      |     RBossDoll     |
 | 1248 |      Demonic Puppet      |     RBossDoll     |
+| 1249 |       Ashen Prophet      |    RBossProphet   |
 <!-- bosses-end -->
 
 ## Pets
