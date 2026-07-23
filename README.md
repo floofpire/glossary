@@ -334,6 +334,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 248 |         Eluard        |    Sapostle    |
 | 249 |          Trix         |     PrankD     |
 | 250 |          Kyno         |     Dstreet    |
+| 251 |         Athena        |     Athena     |
+| 252 |         Medusa        |     Medusa     |
 <!-- heroes-end -->
 
 ## Bosses
