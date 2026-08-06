@@ -336,6 +336,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 250 |          Kyno         |     Dstreet    |
 | 251 |         Athena        |     Athena     |
 | 252 |         Medusa        |     Medusa     |
+| 253 |        Thalassa       |      Dwave     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -588,6 +589,12 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1247 |      Demonic Puppet      |     RBossDoll     |
 | 1248 |      Demonic Puppet      |     RBossDoll     |
 | 1249 |       Ashen Prophet      |    RBossProphet   |
+| 1250 |          Scarlet         |      BM_skin      |
+| 1251 |           Raine          |      nBH_skin     |
+| 1252 |          Mehira          |     LUST_skin     |
+| 1253 |         Antandra         |   Valkyrie_skin   |
+| 1254 |       Mirror Demon       |     BossMirror    |
+| 1255 |       Mirror Demon       |     BossMirror    |
 <!-- bosses-end -->
 
 ## Pets
