@@ -337,6 +337,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 251 |         Athena        |     Athena     |
 | 252 |         Medusa        |     Medusa     |
 | 253 |        Thalassa       |      Dwave     |
+| 254 |         Valery        |     Leopie     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -630,5 +631,6 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 6027 | Nightfall Pegasus |    Grimhoof   |
 | 6028 | Count Snickerfang |  CarrotRabbit |
 | 6029 |   Twinlum Spirit  |   LunarAries  |
+| 6030 |     Blazefang     |   CandleDog   |
 | 6103 |                   |    OrcBall    |
 <!-- pets-end -->
