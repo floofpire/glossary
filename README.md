@@ -337,7 +337,10 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 251 |         Athena        |     Athena     |
 | 252 |         Medusa        |     Medusa     |
 | 253 |        Thalassa       |      Dwave     |
-| 254 |         Valery        |     Leopie     |
+| 254 |         Valeri        |     Leopie     |
+| 255 |          Oren         |     Colonel    |
+| 256 |                       |    MonsterE    |
+| 257 |                       |     Kikoru     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -596,6 +599,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1253 |         Antandra         |   Valkyrie_skin   |
 | 1254 |       Mirror Demon       |     BossMirror    |
 | 1255 |       Mirror Demon       |     BossMirror    |
+| 1256 |          Conrad          |     BossKondra    |
 <!-- bosses-end -->
 
 ## Pets
