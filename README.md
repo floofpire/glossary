@@ -339,8 +339,8 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 253 |        Thalassa       |      Dwave     |
 | 254 |         Valeri        |     Leopie     |
 | 255 |          Oren         |     Colonel    |
-| 256 |                       |    MonsterE    |
-| 257 |                       |     Kikoru     |
+| 256 |      Kafka Hibino     |    MonsterE    |
+| 257 |    Kikoru Shinomiya   |     Kikoru     |
 <!-- heroes-end -->
 
 ## Bosses
@@ -600,6 +600,11 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1254 |       Mirror Demon       |     BossMirror    |
 | 1255 |       Mirror Demon       |     BossMirror    |
 | 1256 |          Conrad          |     BossKondra    |
+| 1257 |        Ice Shemira       |       BossDQ      |
+| 1258 |       Burning Brute      |       BossYM      |
+| 1259 |           Idre           |     BossMystic    |
+| 1260 |       Mask Curator       |   BossNightmare   |
+| 1261 |     Soulchain Knight     |  RBossSoulLocker  |
 <!-- bosses-end -->
 
 ## Pets
