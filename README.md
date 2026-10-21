@@ -341,6 +341,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 255 |          Oren         |     Colonel    |
 | 256 |      Kafka Hibino     |    MonsterE    |
 | 257 |    Kikoru Shinomiya   |     Kikoru     |
+| 258 |        Theowyn        |     Sghostq    |
 <!-- heroes-end -->
 
 ## Bosses
@@ -605,6 +606,9 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1259 |           Idre           |     BossMystic    |
 | 1260 |       Mask Curator       |   BossNightmare   |
 | 1261 |     Soulchain Knight     |  RBossSoulLocker  |
+| 1264 |          Mezoth          |        Fat        |
+| 1265 |         Isabella         |       Wizard      |
+| 1266 |          Mehira          |        LUST       |
 <!-- bosses-end -->
 
 ## Pets
