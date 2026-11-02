@@ -342,6 +342,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 256 |      Kafka Hibino     |    MonsterE    |
 | 257 |    Kikoru Shinomiya   |     Kikoru     |
 | 258 |        Theowyn        |     Sghostq    |
+| 259 |        Greisman       |   Wheelchair   |
 <!-- heroes-end -->
 
 ## Bosses
@@ -605,10 +606,11 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1258 |       Burning Brute      |       BossYM      |
 | 1259 |           Idre           |     BossMystic    |
 | 1260 |       Mask Curator       |   BossNightmare   |
-| 1261 |     Soulchain Knight     |  RBossSoulLocker  |
+| 1261 |     Soulchain Knight     |   BossSoulLocker  |
 | 1264 |          Mezoth          |        Fat        |
 | 1265 |         Isabella         |       Wizard      |
 | 1266 |          Mehira          |        LUST       |
+| 1267 |    Plaguebound Knight    |    RBossPlague    |
 <!-- bosses-end -->
 
 ## Pets
