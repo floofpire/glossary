@@ -343,6 +343,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 257 |    Kikoru Shinomiya   |     Kikoru     |
 | 258 |        Theowyn        |     Sghostq    |
 | 259 |        Greisman       |   Wheelchair   |
+| 260 |         Brenna        |     Dstrong    |
 <!-- heroes-end -->
 
 ## Bosses
@@ -611,6 +612,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1265 |         Isabella         |       Wizard      |
 | 1266 |          Mehira          |        LUST       |
 | 1267 |    Plaguebound Knight    |    RBossPlague    |
+| 1268 |      Morass Diabolus     |     RBossHydra    |
 <!-- bosses-end -->
 
 ## Pets
