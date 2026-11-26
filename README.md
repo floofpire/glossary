@@ -344,6 +344,7 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 258 |        Theowyn        |     Sghostq    |
 | 259 |        Greisman       |   Wheelchair   |
 | 260 |         Brenna        |     Dstrong    |
+| 261 |        Fidella        |      TWOB      |
 <!-- heroes-end -->
 
 ## Bosses
@@ -613,6 +614,10 @@ A quick glossary of all the internal names used in the game translated into Engl
 | 1266 |          Mehira          |        LUST       |
 | 1267 |    Plaguebound Knight    |    RBossPlague    |
 | 1268 |      Morass Diabolus     |     RBossHydra    |
+| 1269 |          Naroko          |        SWQ        |
+| 1270 |       Great Sandmaw      |    BossRockWorm   |
+| 1271 |     Tidedrinker Larva    |  BossRockWormMini |
+| 1273 |      Demonic Nemora      |    DarkYeanling   |
 <!-- bosses-end -->
 
 ## Pets
